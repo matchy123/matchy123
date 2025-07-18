@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matchy123&label=Profile%20views&color=0e75b6&style=flat" alt="matchy123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matchy123" alt="matchy123" /></a> </p>
-
 - 🔭 I’m currently working on [DevGenix Theme (UI/UX web project)](https://github.com/matchy123/DevGenix.git)
 
 - 🌱 I’m currently learning **Machine Learning (ML), AI Prompt Engineering,AI Development**
