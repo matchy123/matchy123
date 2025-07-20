@@ -7,11 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning (ML), AI Prompt Engineering**
 
-- 👯 I’m looking to collaborate on [Nashipae Cultural Oasis Project](nashipaeculturaloasis.com)
-
 - 👨‍💻 All of my projects are available at [https://huggingface.co/spaces/Matchy/my-portfolio](https://huggingface.co/spaces/Matchy/my-portfolio)
-
-- 💬 Ask me about **React,Python,Node.js,Django,JS,Wordpress Elementor**
 
 - 📫 How to reach me **dikomohamed287@gmail.com**
 
