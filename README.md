@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [DevGenix Theme (UI/UX web project)](https://github.com/matchy123/DevGenix.git)
 
-- 🌱 I’m currently learning **Machine Learning (ML), AI Prompt Engineering,AI Development**
+- 🌱 I’m currently learning **Machine Learning (ML), AI Prompt Engineering**
 
 - 👯 I’m looking to collaborate on [Nashipae Cultural Oasis Project](nashipaeculturaloasis.com)
 
