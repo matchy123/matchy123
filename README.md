@@ -87,7 +87,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=matchy123&show_icons=true&theme=default&count_private=true" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=matchy123&theme=default" height="180" />
 </div>
